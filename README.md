@@ -10,3 +10,9 @@ Created a dashboard in Wazuh SIEM tool to detect the failed login attempts, USB 
 
 <img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/05db27a8-3532-43bf-b6f1-f6bf2ffe5d2b" />
 
+
+**USB Ativity**
+
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/95646c4b-428b-4170-a170-46052c65714e" />
+
+
